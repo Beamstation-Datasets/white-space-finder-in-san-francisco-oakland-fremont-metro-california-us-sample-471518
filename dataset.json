@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in San Francisco-Oakland-Fremont, CA that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in San Francisco-Oakland-Fremont (Metro), California, US",
+  "export_job_id": "79532d93-efa0-40d6-a4e0-1e183f49c7cc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 471518,
+  "location_name": "San Francisco-Oakland-Fremont, CA",
+  "location_type": "metro",
+  "repo_name": "white-space-finder-in-san-francisco-oakland-fremont-metro-california-us-sample-471518",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/471518/beamstation_471518_food_and_drink-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
+  "sample_pct": 33.33,
+  "sample_records": 1,
+  "sample_sha256": "3d148c312433c346c5352b4346cd9e223f9b023e2daa1a472cd78c5c0da4c302",
+  "sample_size_bytes": 19931,
+  "total_records": 3,
+  "updated_at": "2026-04-07T14:50:39.820059+00:00"
+}
