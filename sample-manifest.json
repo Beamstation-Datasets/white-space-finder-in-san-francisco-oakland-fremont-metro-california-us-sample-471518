@@ -1,12 +1,12 @@
 {
-  "export_job_id": "79532d93-efa0-40d6-a4e0-1e183f49c7cc",
+  "export_job_id": "0a7db4f3-c334-4beb-a630-2239fdbb40ab",
   "id_short": 471518,
-  "published_at": "2026-04-12T19:15:59Z",
+  "published_at": "2026-04-18T19:10:44Z",
   "repo_name": "white-space-finder-in-san-francisco-oakland-fremont-metro-california-us-sample-471518",
   "sample_asset_name": "beamstation_471518_food_and_drink-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/471518/beamstation_471518_food_and_drink-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "3d148c312433c346c5352b4346cd9e223f9b023e2daa1a472cd78c5c0da4c302",
-  "sample_size_bytes": 19931,
+  "sample_sha256": "65819db67e1efffb1f2cb25b50c7312b2a7acbc43d23cdf5939cb071d87ab0b5",
+  "sample_size_bytes": 19956,
   "total_records": 3
 }
